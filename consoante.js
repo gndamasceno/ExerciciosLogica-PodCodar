@@ -1,0 +1,1 @@
+/* ex 3: dada a uma lista de palavras verifique se alguma so tem consoante /* ex 3: dada a uma lista de palavras verifique se alguma so tem consoante /* ex 3: dada a uma lista de palavras verifique se alguma so tem consoante
